@@ -1,0 +1,28 @@
+{
+  "id": "4cc73e97-2d10-4eae-a00e-42f9c497f808",
+  "name": "Advanced Payment Fitlers",
+  "publisher": "dylanbinarystream",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 77177,
+      "to": 77188
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
